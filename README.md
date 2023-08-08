@@ -1,7 +1,6 @@
 # FoodDelivery
 Fully Responsive Food delivery website created using Bootstrap 5, Html, Css &amp; javascript.
 
-
 # Technology
 - HTML
 - CSS
@@ -9,7 +8,7 @@ Fully Responsive Food delivery website created using Bootstrap 5, Html, Css &amp
 - Bootstrap 5
 
 # Live Site
-- 
+- https://foodiesmk.netlify.app/
 
 # Screenshots
 ![1](https://github.com/Evilking009/FoodDelivery/assets/4027728/e70477db-1d3e-4809-8621-6ae74fb251b2)
